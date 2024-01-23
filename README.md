@@ -24,3 +24,6 @@ Getting overwhelmed by Tutorials
 Not completing the Tutorials because of negative emotions 
 Getting sidetracked by information overload
 Not creating a project of my own 
+
+
+https://www.freecodecamp.org/news/learn-langchain-for-llm-development/
