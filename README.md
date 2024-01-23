@@ -1,4 +1,4 @@
-# LangChain
+# LangChain (Renamed Dadsire)
 Purpose of this repo is to document my learning journey and display my progress in creating an AI power solution with LangChain
 
 ## SWOT Analysis
