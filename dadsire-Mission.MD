@@ -60,19 +60,3 @@ For me to be a CEO and Founder I have to do the noble thing and commit suicide.
 With a Hint of Google:
 "Dadicated's Mission: To organize and make universally accessible the wisdom and resources empowering fathers worldwide. We are committed to breaking generational cycles, redefining traditional notions, building resilience, championing empathy, unleashing potential, catalyzing father-child connections, and harnessing fatherhood for social change. Dadicated strives to revolutionize parenthood, inspiring fathers to lead for a brighter, responsible, loving, and integral future."
 
-
-
-Post Product Checklist
-
-Topics covered during the 12 weeks include:
-
--      Design Thinking & Mission, Vision, Values
--      Technology
--      Legal
--      Cybersecurity
--      Marketing/Communications
--      Sales/Business Development
--      Legal
--      HR
--      Financials
--      Pitching
