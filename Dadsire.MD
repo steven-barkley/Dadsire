@@ -14,3 +14,10 @@ Pains
   - No knowledge low knowledge of modern children's trends and interests
   - Lack of psychological resources for understanding children's changing moods and behaviors
   - Calculate probabilities of legal decisions
+
+
+Dadsire.com
+
+Elevator pitch
+
+Dadsire - provides personalized context for Fathers to leverage for real-time solutions and long-term outcomes for their children and themselves. 
