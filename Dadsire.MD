@@ -21,3 +21,5 @@ Dadsire.com
 Elevator pitch
 
 Dadsire - provides personalized context for Fathers to leverage for real-time solutions and long-term outcomes for their children and themselves. 
+
+Linked to Notion
