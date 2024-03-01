@@ -12,6 +12,7 @@ I understand AI basics
 
 I have not built an this platform before 
 I have never built an AI solution before 
+Lack of surveys and customer experiences
 
 ### Opportunities 
 
