@@ -31,3 +31,4 @@ Fake commit.... 2/28/2024
 Update .... 3/1/2024 Compile Documentation
 
 Update .... 3/4/2024 Youtubed A.I. Video and BASH scripting
+Update ..... 3/5/2024 Youtube some stuff but no real learning on the topic still learning DevOps via ZTM
